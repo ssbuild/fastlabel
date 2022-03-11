@@ -12,20 +12,11 @@ fastlabel是一款简洁高效的标注工具；
 
 ## 下载
 
-下载 http://ssdog.cn/fastlabel.html
+下载 http://ssdog.cn/fastlabel
 百度网盘 
 https://pan.baidu.com/s/1pyOidMH446H5zEzyItgdgw 提取码：1111
 
 
-
-
-fastlabel 名副其实，欢迎大家尝试。
-![image](https://user-images.githubusercontent.com/14295852/116810356-eb2c3b80-ab75-11eb-8284-9653c797017f.png)
-
-![image](https://user-images.githubusercontent.com/14295852/116810362-f2ebe000-ab75-11eb-9cb5-369441223170.png)
-
-
-![image](https://user-images.githubusercontent.com/14295852/116810366-f97a5780-ab75-11eb-9ea8-5681e97daa83.png)
 
 
 ## 标注工具fastlabel 升级方法 
@@ -61,4 +52,16 @@ python data_export.py --task=export --fname=数据目录 --project=工程名称 
 实际例子： 所有数据目录均在`datas`目录下
 ```
 python data_export.py --task=export --fname=signed/datas --project=技术关键词 --outpath=signed/alldata_2022031.txt 
+
 ```
+
+
+
+
+fastlabel 欢迎大家尝试。
+![image](https://user-images.githubusercontent.com/14295852/116810356-eb2c3b80-ab75-11eb-8284-9653c797017f.png)
+
+![image](https://user-images.githubusercontent.com/14295852/116810362-f2ebe000-ab75-11eb-9cb5-369441223170.png)
+
+
+![image](https://user-images.githubusercontent.com/14295852/116810366-f97a5780-ab75-11eb-9ea8-5681e97daa83.png)
