@@ -10,18 +10,13 @@ fastlabel是一款简洁高效的标注工具；
 图形标注支持： 矩形和点的快速标注。
 
 
-## 下载
-
-下载 http://ssdog.cn/fastlabel
-百度网盘 
-https://pan.baidu.com/s/1pyOidMH446H5zEzyItgdgw 提取码：1111
-
-
-
 
 ## 标注工具fastlabel 升级方法 
 
-1. 下载
+1. 下载 
+url: http://ssdog.cn/fastlabel
+百度网盘 
+https://pan.baidu.com/s/1pyOidMH446H5zEzyItgdgw 提取码：1111
 
 
 ## fastlabel批量导出步骤 
@@ -46,12 +41,12 @@ SIGNED\DATAS
 4. 运行以下命令批量导出：
 
 ```
-python data_export.py --task=export --fname=数据目录 --project=工程名称 --outpath=输出文件名
+python src/data_export.py --task=export --fname=数据目录 --project=工程名称 --outpath=输出文件名
 ```
 
 实际例子： 所有数据目录均在`datas`目录下
 ```
-python data_export.py --task=export --fname=signed/datas --project=技术关键词 --outpath=signed/alldata_2022031.txt 
+python src/data_export.py --task=export --fname=signed/datas --project=技术关键词 --outpath=signed/alldata_2022031.txt 
 
 ```
 
