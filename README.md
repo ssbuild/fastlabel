@@ -56,7 +56,5 @@ python src/data_export.py --task=export --fname=signed/datas --project=技术关
 fastlabel 欢迎大家尝试。
 ![image](https://user-images.githubusercontent.com/14295852/116810356-eb2c3b80-ab75-11eb-8284-9653c797017f.png)
 
-![image](https://user-images.githubusercontent.com/14295852/116810362-f2ebe000-ab75-11eb-9cb5-369441223170.png)
-
 
 ![image](https://user-images.githubusercontent.com/14295852/116810366-f97a5780-ab75-11eb-9ea8-5681e97daa83.png)
